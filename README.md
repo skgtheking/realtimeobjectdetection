@@ -116,5 +116,4 @@ This project is open source and free to use for educational purposes.
 Shubham Gupta  
 B.S. in Computer Science, University of Idaho  
 LinkedIn: https://www.linkedin.com/in/shubham-gupta-891a831b2/  
-GitHub: https://github.com/skgtheking  
-Resume: https://your_resume_link_here
+GitHub: https://github.com/skgtheking
